@@ -1,0 +1,28 @@
+_repo: Vies-imaginaires_49712
+creator:
+  author:
+    agent_name: Schwob, Marcel
+    aliases:
+    - Loyson-Bridet
+    - Schwob, Mayer Andre Marcel
+    - Schwob, Mayer André Marcel
+    birthdate: 1867
+    deathdate: 1905
+    gutenberg_agent_id: '7814'
+    url: http://www.gutenberg.org/2009/agents/7814
+    wikipedia: http://en.wikipedia.org/wiki/Marcel_Schwob
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Biographie, Mémoires, Journal intime, Correspondance
+- FR Littérature
+gutenberg_issued: '2015-08-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49712'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Vies imaginaires
+url: http://www.gutenberg.org/ebooks/49712
