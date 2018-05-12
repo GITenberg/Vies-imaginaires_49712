@@ -1,4 +1,8 @@
 _repo: Vies-imaginaires_49712
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49712-h/images/cover.jpg
 creator:
   author:
     agent_name: Schwob, Marcel
@@ -12,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7814
     wikipedia: http://en.wikipedia.org/wiki/Marcel_Schwob
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49712#Vies-imaginaires
 gutenberg_bookshelf:
 - FR Nouveautés
 - FR Biographie, Mémoires, Journal intime, Correspondance
